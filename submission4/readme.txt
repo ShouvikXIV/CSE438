@@ -11,12 +11,11 @@ Paper presentation (anyone can view without login):
 https://www.overleaf.com/8631523851twktgspqzhdx
 
 Group Number:
-26
+5
 
 Group Members:
-19301260 SyedHafizKabir
-19341001 TasnimulHassan
-20101577 TanishaTabassum
-21241073 ShouvikBarua
-19101608 A.T.MArham
+19101099 Mohammed Hossain Kabir
+19301129 Rigan Paul
+19301155 Kazi Sazzad Hossain Sayem
+21241073 Shouvik Barua
 
