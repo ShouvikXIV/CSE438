@@ -11,6 +11,8 @@ Detecting gender biases in job sector using NLP
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/2975139543zhbkcpmdpqvj
 
+Slide: https://drive.google.com/drive/folders/1-EALIct1k12VQcX4D952ZYpIP60w26gS?usp=sharing
+
 Group Number:
 5
 
